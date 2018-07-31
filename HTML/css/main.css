@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+/*============================================================
+	Template Name: 
+	Author: Humayun Ahmed
+	PSD URL: 
+	Description: 
+    Tags: responsive, onepage template, personal, slider , animation
+==============================================================*/
+
+
+/*	TOC  */
+
+
+/*-------------------------
+
+	 1. 
+	 2. 
+	 3. 
+	 4. 
+	 5. 
+	 6. 
+	 7. 
+	 8. 
+	 9. 
+    10. 
+    
+--------------------------*/
+
+/* ==========================================================================
+   Base CSS
+   ========================================================================== */
+
+/*if required */
+
+/*
+        a:focus { outline: 0 solid }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .clearfix:before,.clearfix:after {
+            content: "";
+            display: table;
+        }
+
+        .clearfix:after {
+            clear: both;
+        }
+
+        ul li {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+*/
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 300;
+	font-family: 'Roboto', sans-serif;
+}
+html,
+body { height: 100% }
+body {
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+	line-height:25px;
+}
+a:hover { text-decoration: none }
+
+/* Remove Chrome Input Field's Unwanted Yellow Background Color */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
